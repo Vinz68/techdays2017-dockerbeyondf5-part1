@@ -1,5 +1,10 @@
 # Demo script TechDays 2017 - Docker Beyond F5 - LT to Cluster #
+## Session Details ##
+Session by
+* [Rene van Osnabrugge](https://twitter.com/renevo)
 
+## Abstract ##
+With Continuous Delivery 3.0, I introduced the concept of rethinking what you do instead of optimizing what you have. Containers are a very important concept in this new way of thinking. Instead of delivering your application on a server, you can also store your application and everything that is needed to run it, inside a container. But what do you need for this and how does that work? And how do you deal with the ALM aspects like versioning, development flow and deploying to production. 
 
 ## Demo 0 ##
 ```
